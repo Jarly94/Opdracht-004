@@ -1,0 +1,49 @@
+/* Element Selector */
+body {
+    background-color: grey;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+aside {
+    background-color: whitesmoke ;
+    float: right;
+    width: 10%;
+}
+
+/* Class Selector */
+.favList {
+    margin-top: 100px;
+    border-style: solid;
+    border-radius: 15%;
+    border-end-end-radius: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.border {
+    border: 5px solid black;
+    border-width: thin;
+
+}
+
+.links {
+    color: yellow;
+}
+
+.selfie {
+    
+}
+/* ID Selector */
+#green-background {
+    background-color:green;
+}
